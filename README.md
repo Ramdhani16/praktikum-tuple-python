@@ -1,3 +1,6 @@
+NAMA:M.ASROR RAMDHANI
+NIM:22250019
+
 # Praktikum Tuple Python
 
 Program sederhana Python untuk mempelajari penggunaan **tuple** melalui menu interaktif.
@@ -20,6 +23,6 @@ python tuple.py
 ## Penjelasan
 
 Tuple bersifat **immutable** (tidak bisa diubah).
-Untuk mengubah data, tuple dikonversi ke list terlebih dahulu, lalu dikembalikan lagi ke tuple.
+Untuk mengubah data, tuple dikonversi ke list terlebih dahulu, lalu dikembalikan agi ke tuple.
 
 
